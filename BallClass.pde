@@ -10,7 +10,7 @@ public void setup()
   background(120);
   b1 = new Ball();
   b2 = new Ball();
-  b3 = new Ball(5000,5000,50);
+  b3 = new Ball(50,50,50);
 }
 
 
